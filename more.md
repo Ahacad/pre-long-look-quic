@@ -1,3 +1,5 @@
 
 - are the problems in QUIC solved in 2022? 
-- froest: real examples of using QUIC in blogs and websites: I mean it is really useful and applicable for us
+- froest: real examples of using QUIC in blogs and websites: I mean it is really useful and applicable for us 
+- rehearse for the presentation (by standard of MIT)
+- add more references
