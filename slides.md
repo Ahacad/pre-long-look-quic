@@ -126,7 +126,7 @@ ul {
 <div class="mt-16" />
 
 Back to 2017:
-- QUIC still under heavy development, codes change everyday (so analyses may become obsolete quickly)
+- QUIC still under heavy development, we have its log but don't know how to interpret them
 - codes published, but detailed settings were not (so need gray-box testing)
 - a protocol in reality will face many many situations (so need comprehensive setups)
 
@@ -562,7 +562,7 @@ ul {
 - IMC'07 "Measurement and Analysis of Online Social Networks" (2007)
 - PhD Thesis "Online Social Networks: Measurement, Analysis, and Applications to Distributed Information Systems" (2009) from Rice University: a 268-page long thesis
 - IMC'14 "Measuring Price Discrimination and Steering on E-commerce Web Sites" (2014)
-- IMC'15 "Peeking Beneath the Hood of Uber" (2015)
+- IMC'15 "Peeking Beneath the Hood of Uber"<sup>[9]</sup> (2015)
 - "Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm" (2017), words into emojis: https://deepmoji.mit.edu/
 
 
